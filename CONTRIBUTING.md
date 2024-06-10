@@ -10,9 +10,11 @@ It's great you're here and reading this guide, because we need volunteers to hel
 
 ## Engaging with this project
 
+TODO: Add links below to your repo's GitHub Issues and Discussions pages.
+
 Here are some important resources:
-- [GitHub Issues](./issues) - a place for bugs to be raised and feature requests made
-- [GitHub Discussions](./discussions) - a place to discuss ideas or real-world usage
+- [GitHub Issues](#) - a place for bugs to be raised and feature requests made
+- [GitHub Discussions](#) - a place to discuss ideas or real-world usage
 
 ## Develpoment Guidelines
 
