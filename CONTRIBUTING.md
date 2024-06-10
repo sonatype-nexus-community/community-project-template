@@ -29,7 +29,7 @@ Here are some important resources:
   
 ## Testing
 
-*Explain in detail:*
+*TODO: Explain in detail:*
 
 - How to run tests, including dependencies that might need installing or configuring
 - Environmental configuration that may be required
