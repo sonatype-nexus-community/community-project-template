@@ -1,6 +1,6 @@
 # How to contribute
 
-It's great your here and reading this guide, because we need volunteers to help keep this project active and alive for the greater benefit of everyone!
+It's great you're here and reading this guide, because we need volunteers to help keep this project active and alive for the greater benefit of everyone!
 
 - [Engaging with this project](#engaging-with-this-project)
 - [Develpoment Guidelines](#develpoment-guidelines)
@@ -16,14 +16,16 @@ Here are some important resources:
 
 ## Develpoment Guidelines
 
-*Explain in detail what development standards must be adhered to when contributions are made.*
+*TODO: Explain in detail what development standards must be adhered to when contributions are made.*
 
 *You might include:*
 - Testing requirements
+- Explanation of PR Checks
+- What to expect from a PR reviewer/approver (such as expected time to response)
 
 ### Coding Conventions
 
-- Code style, convention & quality standards (and checks to run)
+- TODO: Explain code style, convention & quality standards (and any associated checks that will be run)
   
 ## Testing
 
