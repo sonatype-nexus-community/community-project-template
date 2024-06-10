@@ -36,7 +36,7 @@ It is worth noting that this is **NOT SUPPORTED** by Sonatype, and is a contribu
 * Do NOT file Sonatype support tickets related to this project
 * DO file issues here on GitHub, so that the community can pitch in
 
-Phew, that was easier than I thought. Last but not least of all - have fun!
+Last but not least of all - have fun!
 
 <!-- Links Section -->
 [shield_gh-workflow-test]: https://img.shields.io/github/actions/workflow/status/sonatype-nexus-community/community-project-template/test.yml?branch=main&logo=GitHub&logoColor=white "build"
