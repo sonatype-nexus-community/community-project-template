@@ -30,7 +30,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 Remember:
 
-It is worth noting that this is **NOT SUPPORTED** by Sonatype, and is a contribution of ours to the open source community (read: you!)
+This project is part of the [Sonatype Nexus Community](https://github.com/sonatype-nexus-community) organization, which is not officially supported by Sonatype. Please review the latest pull requests, issues, and commits to understand this project's readiness for contribution and use.
 
 * File suggestions and requests on this repo through GitHub Issues, so that the community can pitch in
 * Use or contribute to this project according to your organization's policies and your own risk tolerance
