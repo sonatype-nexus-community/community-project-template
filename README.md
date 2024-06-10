@@ -32,9 +32,9 @@ Remember:
 
 It is worth noting that this is **NOT SUPPORTED** by Sonatype, and is a contribution of ours to the open source community (read: you!)
 
-* Use this contribution at the risk tolerance that you have
-* Do NOT file Sonatype support tickets related to this project
-* DO file issues here on GitHub, so that the community can pitch in
+* File suggestions and requests on this repo through GitHub Issues, so that the community can pitch in
+* Use or contribute to this project according to your organization's policies and your own risk tolerance
+* Don't file Sonatype support tickets related to this project— it won't reach the right people that way
 
 Last but not least of all - have fun!
 
