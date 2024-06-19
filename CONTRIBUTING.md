@@ -16,7 +16,7 @@ Here are some important resources:
 - [GitHub Issues](#) - a place for bugs to be raised and feature requests made
 - [GitHub Discussions](#) - a place to discuss ideas or real-world usage
 
-## Develpoment Guidelines
+## Development Guidelines
 
 *TODO: Explain in detail what development standards must be adhered to when contributions are made.*
 
@@ -27,8 +27,15 @@ Here are some important resources:
 
 ### Coding Conventions
 
-- TODO: Explain code style, convention & quality standards (and any associated checks that will be run)
+- In order to help verify the authenticity of contributed code, we ask that your [commits be signed](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits). 
+  All commits must be signed off to show that you agree to publish your changes under the current terms and licenses of the project.
   
+  Here are some notes we found helpful in configuring a local environment to automatically sign git commits:
+    - [GPG commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#gpg-commit-signature-verification)
+    - [Telling Git about your GPG key](https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key#telling-git-about-your-gpg-key)
+    
+- TODO: Explain code style, convention & quality standards (and any associated checks that will be run)
+
 ## Testing
 
 *TODO: Explain in detail:*
